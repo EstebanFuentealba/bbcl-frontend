@@ -1,0 +1,10 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #ff0000;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font: 100% $font-stack;
+  color: $primary-color;
+  margin: 0;
+}
